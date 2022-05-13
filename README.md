@@ -1,7 +1,7 @@
 # MikuTools-For-typecho-theme
 Typecho 工具箱主题，也可当作导航网站使用。
 
-演示网站：https://tools.kui.li
+演示网站：https://tool.craved.cn
 
 安装教程：https://kui.li/miku
 
